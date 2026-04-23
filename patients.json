@@ -1,0 +1,124 @@
+{
+  "patients": [
+    {
+      "patient_id": "Liam Rodriguez",
+      "age": "4 years",
+      "age_group": "3-5",
+      "diagnosis": "Phonological Delay",
+      "primary_concern": "Liquid Simplification",
+      "therapy_stage": "Structured Word Level",
+      "accuracy_last_session": 58,
+      "home_practice_min_per_day": 10,
+      "target_sounds": "r",
+      "error_patterns": "r→w substitution",
+      "therapy_goals": [
+        "Produce /r/ in initial position (80%)"
+      ],
+      "approved_word_list": [
+        "red",
+        "run",
+        "rabbit",
+        "tree",
+        "train"
+      ],
+      "therapist_notes": "Responds well to visual modelling and mirror feedback.",
+      "parent": {
+        "name": "Sarah R.",
+        "relationship": "Mother",
+        "engagement_level": "High",
+        "contact_preference": "App notifications",
+        "home_practice_compliance": "Consistent (5–6 days/week)"
+      }
+    },
+    {
+      "patient_id": "Ethan Mitchell",
+      "age": "3 years",
+      "age_group": "3-5",
+      "diagnosis": "Articulation Disorder",
+      "primary_concern": "Frontal Lisp",
+      "therapy_stage": "Sound in Isolation",
+      "accuracy_last_session": 55,
+      "home_practice_min_per_day": 8,
+      "target_sounds": "s, z",
+      "error_patterns": "interdental production",
+      "therapy_goals": [
+        "Produce /s/ in isolation",
+        "Generalise /s/ to CV syllables"
+      ],
+      "approved_word_list": [
+        "sun",
+        "sock",
+        "sand",
+        "sip"
+      ],
+      "therapist_notes": "Requires tactile cue for tongue placement.",
+      "parent": {
+        "name": "Daniel M.",
+        "relationship": "Father",
+        "engagement_level": "Moderate",
+        "contact_preference": "Email summary",
+        "home_practice_compliance": "3–4 days/week"
+      }
+    },
+    {
+      "patient_id": "Amara Khan",
+      "age": "5 years",
+      "age_group": "3-5",
+      "diagnosis": "Speech Sound Disorder",
+      "primary_concern": "Final Consonant Deletion",
+      "therapy_stage": "Word Level",
+      "accuracy_last_session": 60,
+      "home_practice_min_per_day": 12,
+      "target_sounds": "t, k, p",
+      "error_patterns": "final sound omission",
+      "therapy_goals": [
+        "Produce final /t/ and /k/ (85%)",
+        "Reduce deletion in minimal pairs"
+      ],
+      "approved_word_list": [
+        "cat",
+        "book",
+        "map",
+        "hat"
+      ],
+      "therapist_notes": "Improving with minimal pair contrast therapy.",
+      "parent": {
+        "name": "Aisha K.",
+        "relationship": "Mother",
+        "engagement_level": "High",
+        "contact_preference": "App + Weekly Report",
+        "home_practice_compliance": "6 days/week"
+      }
+    },
+    {
+      "patient_id": "Noah Peterson",
+      "age": "4 years",
+      "age_group": "3-5",
+      "diagnosis": "Phonological Delay",
+      "primary_concern": "Stopping Process",
+      "therapy_stage": "Phrase Level",
+      "accuracy_last_session": 68,
+      "home_practice_min_per_day": 10,
+      "target_sounds": "f, s",
+      "error_patterns": "stopping of fricatives",
+      "therapy_goals": [
+        "Produce /f/ in phrases",
+        "Reduce stopping in spontaneous speech"
+      ],
+      "approved_word_list": [
+        "fish",
+        "fun",
+        "sun",
+        "soap"
+      ],
+      "therapist_notes": "Ready to transition from structured to semi-structured tasks.",
+      "parent": {
+        "name": "James P.",
+        "relationship": "Father",
+        "engagement_level": "Moderate",
+        "contact_preference": "App reminders",
+        "home_practice_compliance": "4–5 days/week"
+      }
+    }
+  ]
+}
