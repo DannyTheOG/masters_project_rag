@@ -178,7 +178,7 @@ agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
 
 # initiating streamlit app
 st.set_page_config(page_title="🤖 Agentic RAG Chatbot", page_icon="🦜")
-st.title("🤖 Agentic RAG Chatbot")
+st.title("🤖 SLT SUPPORT CHATBOT")
 
 # initialize chat history
 if "messages" not in st.session_state:
